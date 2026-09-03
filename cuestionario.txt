@@ -1,0 +1,25 @@
+1-  Django es un framework de phyton que hace mas facil crear sitios web. Segun w3schools django se encarga de lo dificil 
+para que vos puedas construir tu web tranquilo. lo usariamos para introducirnos al mundo de la creacion de paginas web
+y luego hacer algo mas complicado en html css y java.
+
+2- MTV es una forma de organizar django, el model se encarga de los datos, el template de lo que ve el usuario
+ y el view de la logica, es parecido al mvc pero cambia la forma de organizar y nombrar las partes,
+
+3- Una app en django es una parte del proyecto que se encarga de una funcion especifica, por ejemplo usuarios, 
+productos o noticias, sirve para tener el proyecto mejor organizado,
+
+4- El flujo request response ocurre cuando un usuario hace una solicitud, django recibe el request, 
+lo procesa y devuelve un response con la pagina o los datos correspondientes,
+
+5- El orm permite trabajar con la base de datos usando python en vez de escribir directamente las consultas sql,
+ django se encarga de relacionar los modelos con las tablas de la base de datos,
+
+6- Los templates son archivos que se usan para crear la parte visual de una pagina, 
+permiten combinar html con informacion que viene desde django,
+
+7- Django permite crear sitios web de forma rapida y organizada, tiene herramientas para trabajar con urls, bases de
+ datos, usuarios y templates, tambien permite separar las diferentes partes del proyecto para que sea mas facil mantenerlo,
+
+8- Para instalar django primero hay que tener python instalado, despues se puede crear un entorno virtual 
+y finalmente instalar django con pip usando python -m pip install django, para comprobar la instalacion se puede usar
+ python -m django --version,
